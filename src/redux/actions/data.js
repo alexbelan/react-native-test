@@ -1,0 +1,3 @@
+export const GET_USERS = "DATA/GET_USERS"
+export const GET_POSTS = "DATA/GET_POSTS"
+export const GET_DATA_LOADING = "DATA/GET_DATA_LOADING"
