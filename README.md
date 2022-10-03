@@ -12,3 +12,7 @@ npm install
 ```
 npm run start
 ```
+
+Для входа используете эти данные:
+Логин: VovaPupkin
+Пароль: 12345
