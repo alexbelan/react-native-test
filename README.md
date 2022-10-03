@@ -8,7 +8,7 @@
 npm install
 ```
 
-Запускаеться всё в Expo:
+Запускается всё в Expo:
 ```
 npm run start
 ```
